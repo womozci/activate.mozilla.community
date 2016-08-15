@@ -52,7 +52,7 @@ Install the dependencies
 
 ``$ bundle install``
 
-Run the site using the developer config
+Run the site using the developer config 
 
 ``$ bundle exec jekyll serve --config ./_config-dev.yml``
 
