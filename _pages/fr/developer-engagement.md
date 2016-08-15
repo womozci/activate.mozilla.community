@@ -1,19 +1,19 @@
 ---
 layout: page
-title:  "Developer Engagement"
-permalink: /lang/developer-engagement/
-lang: lang
+title:  "Engagement de développeurs "
+permalink: /fr/developer-engagement/
+lang: fr
 ref: developer-engagement
 ---
 
 {: .right}
 ![image](/asserts/img/development.png)
 
-Developers are very important for Mozilla. Everything we do is not only to serve our hundreds of millions of users, but to bring Mozilla's manifesto and values to web developers and make their lives easier. We provide many things for developers. To name just a few, we have first class developer tools in Firefox, a world leader add-ons platform, and widely recognised developer documentation portal in MDN.
+Les développeurs sont très important pour Mozilla. Ce que nous faisons,n'est pas seulement de servir nos centaines de millions d'utilisateurs, mais d'amener les developpeurs web à la découverte du manifeste et des valeurs de Mozilla afin de simplifier leur quotidien. Nous proposons plusieurs choses pour les développeurs. Pour citez quelques-uns, nous avons en vedette, des outils de développement dans Firefox, une plateforme mondiale leader en fonctionnalités (Add-on); et la documentation pour développeurs, portail largement reconnu dans MDN (Mozilla Developer Network).
 
-Because of this, we always aim to work more with developers to hear what their needs are and to bring our stories to them. This is where you come in. These activities are about working with developers and telling them about the latest and greatest that is happening with Mozilla and around the Web.
+Pour cela, nous nous efforçons sans cesse, à travailler avec les développeurs pour être à l'écoute de leurs besoins et les captiver par nos chroniques. C'est là que vous entrez en jeu. Ces activités sont axées sur l'environnement de travail avec les developpeurs et d'échanger avec eux au sujet des actualités les plus récentes et les plus importantes avec Mozilla et autour du web.
 
-Our current activities in this area are:
+Nos activités en cours dans ce domaine sont:
 
 * [Dive Into Rust]({{ "rust-hack" | prepend: page.url | prepend: site.baseurl }})
 * [Web Compatibility Sprint]({{ "webcompat-sprint" | prepend: page.url | prepend: site.baseurl }})
